@@ -1,16 +1,15 @@
-## Hi there 👋
+## — about me
+- university student, third year.
+- love doing aesthetic things.
+- REALLY inconistent with my work.
+- trying to do better idk.
 
-<!--
-**diakostenko/diakostenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## — stack
+- html, css, javascript.
+- node.js, ejs, chartjs, imtoolazytotypeallthese.
+- mongodb, postgresql.
 
-Here are some ideas to get you started:
+## — current projects
+- there are four actually but i wob't disclose it lol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+have fun ig.
