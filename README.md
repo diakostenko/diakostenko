@@ -6,7 +6,7 @@
 
 - future fullstack developer(at least i hope so), currently learning backend development.
 - keen on aesthetic things, minimalism and clean code.
-- coding can be cute if u try good enough.
+- coding can be cute if u try hard enough.
 - trying to learn new things every day, but sometimes i just want to sleep and eat.
 
 ## — languages and tools
