@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="(https://github.com/diakostenko/diakostenko/blob/main/readmeheader.gif"/>
-</p>
+![header](https://github.com/diakostenko/diakostenko/blob/main/readmeheader.gif)
 
 ---
 
