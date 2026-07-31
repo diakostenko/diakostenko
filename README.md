@@ -39,12 +39,12 @@
 ### > [LogAnalyzer](https://github.com/diakostenko/LogAnalyzer)
 fullstack tool for analyzing nginx/apache logs: detects anomalies (traffic spikes, brute-force attempts, vulnerability scanning, server errors) and displays everything in a multi-tab dashboard with geoip location and report export. summer internship project.
 
-`JavaScript` · `Node.js/Express` · `MongoDB` · `Docker` · `Chart.js`
+`JavaScript` · `HTML` · `CSS` · `Node.js/Express` · `MongoDB` · `Docker` · `Chart.js`
 
 ### > [SugarTrack](https://github.com/diakostenko/SugarTrack)
 web application for tracking health, developed for people with diabetes or eating disorder. university project.
 
-`JavaScript` · `HTML` · `CSS`
+`JavaScript` · `HTML` · `CSS` · `Node.js/Express` · `MongoDB` · `Chart.js`
 
 ## — my stats
 
