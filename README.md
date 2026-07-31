@@ -1,4 +1,6 @@
-![header](https://github.com/diakostenko/diakostenko/blob/main/readmeheader.gif)
+<p align="center">
+  <img src="(https://github.com/diakostenko/diakostenko/blob/main/readmeheader.gif"/>
+</p>
 
 ---
 
@@ -49,12 +51,10 @@ web application for tracking health, developed for people with diabetes or eatin
 ## — my stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diakostenko&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diakostenko&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diakostenko&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diakostenko&theme=radical&hide_border=true"/>
 </p>
 
 ---
+<p align="center">
+    <i>it's me vs the world</i>
+</p>
